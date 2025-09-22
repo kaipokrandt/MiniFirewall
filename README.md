@@ -17,18 +17,42 @@ MiniFirewall captures live network traffic, logs packets, and filters them accor
 ---
 
 ## Folder Structure
+
 |---src/
+
+
 |-------main.cpp
+
+
 |-------packet.cpp
+
+
 |-------packet.hpp
+
+
 |-------logger.cpp
+
+
 |-------logger.hpp
+
+
 |-------firewall.cpp
+
+
 |-------firewall.hpp
+
+
 |---build/
+
+
 |---rules.conf
+
+
 |---Makefile
+
+
 |---CMakeLists.txt
+
 
 
 ## Installation
